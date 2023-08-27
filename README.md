@@ -48,7 +48,7 @@ Hereby listed manual way to setup:-
    - Clone the code-
 
      ```
-     git clone https://github.com/abhinav20001/StackOverflow-Clone.git
+     git clone https://github.com/rohitkumargupta348/Stackoverflow.git
      cd Stackoverflow-Clone
      ```
 
