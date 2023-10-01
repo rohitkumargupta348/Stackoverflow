@@ -10,7 +10,7 @@
 [![MONGOOSE](https://img.shields.io/static/v1?label=mongoose&message=7.4.5&color=purple)](https://mongoosejs.com/)
 [![NODEMON](https://img.shields.io/static/v1?label=nodemon&message=2.0.22&color=brown)](https://www.npmjs.com/package/nodemon)
 
-### [🌐 Website](https://stack-overflow-clone-mern.netlify.app)  |  [📹 Demo Video](https://user-images.githubusercontent.com/92365361/174068783-b234d5d4-7afc-4128-971c-5a2d2f8e6c2c.mp4) 
+### [🌐 Website](https://stack-overflow-clone-mern.netlify.app)
 
 # StackOverflow-Clone
 
@@ -83,13 +83,6 @@ Hereby listed manual way to setup:-
      ```
 
    - Run the client index `npm start`.
-
-## DEMO
-
-#### VIDEO - [Watch the video](https://user-images.githubusercontent.com/92365361/174068783-b234d5d4-7afc-4128-971c-5a2d2f8e6c2c.mp4)
-
-_Video Last Updated on 16th August_, 2023_
-
 
 ## CONTRIBUTOR
  
